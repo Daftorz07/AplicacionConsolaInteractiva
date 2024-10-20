@@ -18,4 +18,5 @@ Esta es una aplicación de consola interactiva desarrollada en **Node.js** que p
 - **UUID**: Generación de IDs únicos para las tareas.
 - **File System (fs)**: Para la lectura y escritura de archivos, garantizando la persistencia de las tareas.
 
-#### Esta aplicacion es una extraccion del cuarso de Node Js de Fernando Herrera
+> **Nota**: Esta aplicación es una extracción del curso de Node.js de **Fernando Herrera**.
+
